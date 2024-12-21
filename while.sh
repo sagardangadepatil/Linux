@@ -1,6 +1,7 @@
 #!/bin/bash
-count=1
-while [ $count -le 5 ]
+echo " enter any number up to 10"
+read count
+while [ $count -le 10 ]
 do
 	echo $((count++))
 done
