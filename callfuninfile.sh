@@ -1,4 +1,4 @@
-#!bin/Bash
+#!/bin/bash
 echo "Addition or Substraction of 2 numbers BY Using Calling Function In same File"
 echo "Enter 2 numbers then for Addition type "add" for Substraction type "sub""
 read a
